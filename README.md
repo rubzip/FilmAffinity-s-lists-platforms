@@ -1,6 +1,6 @@
 # FilmAffinity's lists
 
-FA does't show in what platform you can watch movies from a FA's list.
+FA does't show in what platforms you can watch movies from a FA's list.
 
 I have made my own solution using webscrapping.
 
