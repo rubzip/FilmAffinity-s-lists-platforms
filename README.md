@@ -45,10 +45,11 @@ your_plattforms = ['Filmin', 'Netflix']
 countries = ['es', 'us']
 ```
 To obtain the URL you have to click share on the FA's list and copy the link.
+![URL](https://github.com/rubzip/FilmAffinity-s-lists/blob/main/URL.jpg)
 
 ## Output
 
-
+The output of the program consist on two .CSV files, a first one called `CSV_file_name`, a list of all movies from the list and in what platforms you can watch them. The second file `CSV_file_you_can_watch` recopiles all movies frome the list tha you can watch on your platforms.
 
 # Listas de FilmAffinity
 
