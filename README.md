@@ -10,6 +10,21 @@ Platforms catalogue is different in every country, there are some movies that yo
 
 I have automatized the way to search. The program gives you in what platforms you can watch the movies in four countries: Spain, US, UK and Canada (I'm limited by FilmAffinity). So if you have access to a VPN, you can watch more movies!
 
+## Prerequisits
+
+```
+  python 3.X
+  BeautifulSoup4
+  pandas
+  jupyter-notebook (optional)
+```
+
+## Scripts:
+
+The program can be run as as a python script (main.py) or a jupyer notebook ()
+
+The results
+
 # Listas de FilmAffinity
 
 En FilmAffinity no puedes saber de manera directa en qué plataforma se encuentran las peliculas de una lista.
