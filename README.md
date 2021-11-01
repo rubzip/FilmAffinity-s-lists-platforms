@@ -1,4 +1,4 @@
-# FilmAffinity's lists
+# FilmAffinity's lists platforms
 
 FA does't show in what platforms you can watch movies from a FA's list.
 
