@@ -10,7 +10,7 @@ Platforms catalogue is different in every country, there are some movies that yo
 
 I have automatized the way to search. The program gives you in what platforms you can watch the movies in four countries: Spain, US, UK and Canada (I'm limited by FilmAffinity). So if you have access to a VPN, you can watch more movies!
 
-## Prerequisits
+## Prerequisites
 
 ```
   python 3.X
