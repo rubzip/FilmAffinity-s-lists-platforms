@@ -19,13 +19,35 @@ I have automatized the way to search. The program gives you in what platforms yo
   jupyter-notebook (optional)
 ```
 
-## Scripts:
+## Scripts
 
 The program can be run indifferently as as a python script (`main.py`) or a jupyer notebook (`what_you_can_watch_from_a_FilmAffinity_list.ipynb`).
 
  * `main.py` : Main script.
  * `what_you_can_watch_from_a_FilmAffinity_list.ipynb` : Main script as a jupyter notebook
  * `fun.py` : Contains all functions.
+
+## Input
+
+The input of the script goes here:
+```python
+#URL of the list:
+URL = 'https://www.filmaffinity.com/es/userlist.php?user_id=9046485&list_id=220'
+#Number of pages of the list:
+num_pages = 2 
+#Name of the CSV generated with all movies in FA's list
+CSV_file_name = 'list.csv'
+#Name of the CSV generated with all movies in FA's list that you can watch
+CSV_file_you_can_watch = 'you_can_watch.csv'
+#List of all platforms where you have an account:
+your_plattforms = ['Filmin', 'Netflix']
+#Countries (VPN): 
+countries = ['es', 'us']
+```
+To obtain the URL you have to click share on the FA's list and copy the link.
+
+## Output
+
 
 
 # Listas de FilmAffinity
