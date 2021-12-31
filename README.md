@@ -27,6 +27,35 @@ The program can be run indifferently as as a python script (`main.py`) or a jupy
  * `what_you_can_watch_from_a_FilmAffinity_list.ipynb` : Main script as a jupyter notebook
  * `fun.py` : Contains all functions.
 
+## Acepted platforms and countries
+
+```
+#All acepted platforms:
+all_platforms = [
+ 'Starz Play Amazon Channel',
+ 'Filmin Plus',
+ 'Movistar Plus',
+ 'Netflix',
+ 'Filmin',
+ 'fuboTV',
+ 'Rakuten TV',
+ 'HBO',
+ 'Microsoft Store',
+ 'Amazon Prime Video',
+ 'Spamflix',
+ 'Google Play Movies',
+ 'Amazon Video',
+ 'Apple iTunes',
+ 'HBO Max']
+#All countries:
+all_countries = [
+ 'es', #Spain
+ 'us', #US
+ 'uk', #UK
+ 'ca', #Canada
+]
+```
+
 ## Input
 
 The input of the script goes here:
