@@ -61,18 +61,24 @@ all_countries = [
 
 The input of the script goes here:
 ```python
+#Only edit this cell:
+
 #URL of the list:
-URL = 'https://www.filmaffinity.com/es/userlist.php?user_id=9046485&list_id=220'
+URL = 'https://www.filmaffinity.com/es/userlist.php?user_id=9046485&list_id=1005'
 #Number of pages of the list:
-num_pages = 2 
+num_pages = 6
+#Folder where CSVs are contained:
+folder_name = './lists/'
+#List name:
+list_name = 'PELIS Q VER OBL'
 #Name of the CSV generated with all movies in FA's list
-CSV_file_name = 'list.csv'
+CSV_file_name = list_name + '_list.csv'
 #Name of the CSV generated with all movies in FA's list that you can watch
-CSV_file_you_can_watch = 'you_can_watch.csv'
+CSV_file_you_can_watch = list_name +  '_you_can_watch.csv'
 #List of all platforms where you have an account:
-your_plattforms = ['Filmin', 'Netflix']
+your_plattforms = ['Amazon Prime Video', 'Filmin']
 #Countries (VPN): 
-countries = ['es', 'us']
+countries = ['es']
 ```
 To obtain the URL you have to click share on the FA's list and copy the link.
 ![URL](https://github.com/rubzip/FilmAffinity-s-lists/blob/main/URL.jpg)
