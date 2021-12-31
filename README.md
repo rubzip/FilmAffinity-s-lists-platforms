@@ -24,7 +24,7 @@ I have automatized the way to search. The program gives you in what platforms yo
 The program can be run indifferently as as a python script (`main.py`) or a jupyer notebook (`what_you_can_watch_from_a_FilmAffinity_list.ipynb`).
 
  * `main.py` : Main script.
- * `what_you_can_watch_from_a_FilmAffinity_list.ipynb` : Main script as a jupyter notebook
+ * `what_you_can_watch_from_a_FilmAffinity_list.ipynb` : Main script as a jupyter notebook.
  * `fun.py` : Contains all functions.
 
 ## Acepted platforms and countries
