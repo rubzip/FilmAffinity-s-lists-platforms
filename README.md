@@ -29,7 +29,7 @@ The program can be run indifferently as as a python script (`main.py`) or a jupy
 
 ## Acepted platforms and countries
 
-```
+```python
 #All acepted platforms:
 all_platforms = [
  'Starz Play Amazon Channel',
