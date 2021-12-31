@@ -46,7 +46,8 @@ all_platforms = [
  'Google Play Movies',
  'Amazon Video',
  'Apple iTunes',
- 'HBO Max']
+ 'HBO Max'
+ ]
 #All countries:
 all_countries = [
  'es', #Spain
