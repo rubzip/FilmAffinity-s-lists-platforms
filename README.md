@@ -8,7 +8,7 @@ I have made my own solution using webscrapping.
 
 Platforms catalogue is different in every country, there are some movies that you can see in Netflix US but not in Netflix UK.
 
-I have automatized the way to search. The program gives you in what platforms you can watch the movies in four countries: Spain, US, UK and Canada (I'm limited by FilmAffinity). So if you have access to a VPN, you can watch more movies!
+I have automatized the way to search it. The program gives you in what platforms you can watch the movies in four countries: Spain, US, UK and Canada (I'm limited by FilmAffinity). So if you have access to a VPN, you can watch more movies!
 
 ## Prerequisites
 
